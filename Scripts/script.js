@@ -7,7 +7,7 @@ class location1 {
         this.city = city;
         this.ZIP_code = ZIP_code;
         this.address = address;
-        this.DateTime;
+        this.DateTime = DateTime;
         all.push(this);
     }
     display() {
